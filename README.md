@@ -1,2 +1,2 @@
-# kubernetes-bootstrap
+# Vagrant Kubernetes Bootstrap
 Vagrant Local Kubernetes Bootstrap
